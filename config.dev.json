@@ -26,7 +26,7 @@
     "whiteListIds": ["100078140834638","100028350605337"],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "HINATA >.<",
+  "nickNameBot": "𝕱𝖑𝖊𝖝𝖝𝖆",
   "prefix": "!",
   "database": {
     "type": "mongodb",
